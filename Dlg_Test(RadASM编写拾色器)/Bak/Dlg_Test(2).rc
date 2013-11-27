@@ -1,0 +1,3 @@
+#include "Res/Dlg_TestMnu.rc"
+#include "Res/Dlg_TestRes.rc"
+#include "Res/Dlg_TestDlg.rc"

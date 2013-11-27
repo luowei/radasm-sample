@@ -1,0 +1,6 @@
+#define	IDI_WIN_MAIN	100
+IDI_WIN_MAIN	ICON	"Res/main2.ico"
+
+#include "Res/Dlg_TestMnu.rc"
+#include "Res/Dlg_TestRes.rc"
+#include "Res/Dlg_TestDlg.rc"
